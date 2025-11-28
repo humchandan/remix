@@ -1047,11 +1047,11 @@
 			]
 		},
 		"LibertyFinancialChain/LiberttFinancial/exchange.sol": {
-			"keccak256": "0xeaad850d43589c5fae7481054ed7a95c889c7132bb5c43b88dea7f6d2d28c615",
+			"keccak256": "0xd4f4cfbf43bfeed98591e8d8c9607b5f5579c7202f7a3eb4c4332b8fe45debbf",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1155d0242404ccd91857308075ab849b9a018346cb009e5ae7044e1cd3df59f0",
-				"dweb:/ipfs/QmVHYhE8FRPQQ3DdfBSkeXj5R5auHndXPK9iLmiH3TLggu"
+				"bzz-raw://9d0ab59712551282f106bae7a8083198f7634fe5a7a92649ce448b4ae9116827",
+				"dweb:/ipfs/QmRqNzmbWr2rB314kmvVLAUCZvkMCQG6HqKDpTXcNKSndq"
 			]
 		}
 	},
